@@ -1,0 +1,10 @@
+./pre_img/Divya_K/IMG_2667.png
+./pre_img/Divya_K/IMG_2664.png
+./pre_img/Hansa/2018-04-29-192642.png
+./pre_img/bruce_piyush/IMG-20180126-WA0023.png 817 506 1016 764
+./pre_img/bruce_piyush/2018-02-11-193244.png 429 242 642 521
+./pre_img/bruce_piyush/2018-02-11-193327.png 466 240 650 484
+./pre_img/bruce_piyush/2018-02-11-193253.png 468 294 608 482
+./pre_img/bruce_piyush/2018-02-11-193315.png 385 269 628 590
+./pre_img/bruce_piyush/2018-02-11-193333.png 574 290 623 355
+./pre_img/bruce_piyush/2018-02-11-193303.png 362 267 607 566
