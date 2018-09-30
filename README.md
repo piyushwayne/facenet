@@ -9,7 +9,7 @@ scipy (0.17.0)
 scikit-learn (0.19.1)
 Opencv (2.4.9.1)
 
-For ipmlementation and run this code follow this link http://www.aisangam.com/blog/real-time-face-recognition-using-facenet/
+
 
 Usage:
 
